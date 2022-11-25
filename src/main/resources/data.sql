@@ -1,0 +1,1 @@
+INSERT INTO Check (checkid,uri,interval) VALUES (1,'googl.com',2);
